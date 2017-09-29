@@ -10,6 +10,11 @@ namespace _29092017_SemVik_AKSW
     {
         static void Main(string[] args)
         {
+
+            //Viktor schnallt wiedamol nix
+
+            // Änderung
+
         }
     }
 }
