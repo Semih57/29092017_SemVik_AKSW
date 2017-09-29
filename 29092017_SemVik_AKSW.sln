@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29092017_SemVik_AKSW", "29092017_SemVik_AKSW\29092017_SemVik_AKSW.csproj", "{429FBE14-0CA6-45EB-B8C2-21E300ADF28E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{429FBE14-0CA6-45EB-B8C2-21E300ADF28E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429FBE14-0CA6-45EB-B8C2-21E300ADF28E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429FBE14-0CA6-45EB-B8C2-21E300ADF28E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429FBE14-0CA6-45EB-B8C2-21E300ADF28E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4B0E9EE-7837-48A1-AAC0-43AC39297DF7}
+	EndGlobalSection
+EndGlobal
